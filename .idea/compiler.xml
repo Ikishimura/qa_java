@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="qa_java-main" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="qa_java-main" target="11" />
+      <module name="untitled" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
